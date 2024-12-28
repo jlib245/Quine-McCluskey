@@ -11,6 +11,7 @@ $$f(a,b,c,d) = \sum m (0,1,2,5,6,7,8,9,10,14)$$
 
 위와 같은  minterm의 조합이 있다면 다음과 같은 그림으로 나타낼 수 있다.
 ![](https://velog.velcdn.com/images/jlib245/post/4a3e3e6b-b1e9-4937-97d5-644dafd684b3/image.png)
+
 각각의 그룹이름은 minterm을 2진수로 표현했을 때의 1의 개수를 의미 한다.
 
 
